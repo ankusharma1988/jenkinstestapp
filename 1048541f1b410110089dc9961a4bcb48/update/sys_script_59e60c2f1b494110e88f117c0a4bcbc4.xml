@@ -30,7 +30,8 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	// Test BR
+	// Test BR 
+	// Added version 2
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -39,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>59e60c2f1b494110e88f117c0a4bcbc4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Test BR</sys_name>
         <sys_overrides/>
         <sys_package display_value="jenkinstestapp" source="x_hclte_jenkinstes">1048541f1b410110089dc9961a4bcb48</sys_package>
@@ -47,7 +48,7 @@
         <sys_scope display_value="jenkinstestapp">1048541f1b410110089dc9961a4bcb48</sys_scope>
         <sys_update_name>sys_script_59e60c2f1b494110e88f117c0a4bcbc4</sys_update_name>
         <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
-        <sys_updated_on>2022-01-20 10:15:18</sys_updated_on>
+        <sys_updated_on>2022-01-20 10:22:03</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
