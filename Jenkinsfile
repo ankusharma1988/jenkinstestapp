@@ -1,7 +1,7 @@
 pipeline {
   agent any
   options {
-        timeout(time: 1, unit: 'HOURS') 
+        timeout(time: 4, unit: 'HOURS') 
     }   
   environment {
     APPSYSID = '1048541f1b410110089dc9961a4bcb48'
