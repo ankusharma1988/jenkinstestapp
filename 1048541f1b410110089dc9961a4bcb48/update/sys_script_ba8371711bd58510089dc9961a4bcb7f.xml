@@ -32,6 +32,7 @@
 	// Add your code here
 	// Tes BR for 4 Hrs. Logic (Not Approved). What if a CR is not approved in 4 hrs.
 	// Attempt 3
+	// Single Developer working on multiple customer updates () and multiple stories and single commit
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>saurabh.m@hcl.com</sys_created_by>
@@ -39,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ba8371711bd58510089dc9961a4bcb7f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Test BR for 4 Hrs. Logic (Not Approved)</sys_name>
         <sys_overrides/>
         <sys_package display_value="jenkinstestapp" source="x_hclte_jenkinstes">1048541f1b410110089dc9961a4bcb48</sys_package>
@@ -47,7 +48,7 @@
         <sys_scope display_value="jenkinstestapp">1048541f1b410110089dc9961a4bcb48</sys_scope>
         <sys_update_name>sys_script_ba8371711bd58510089dc9961a4bcb7f</sys_update_name>
         <sys_updated_by>saurabh.m@hcl.com</sys_updated_by>
-        <sys_updated_on>2022-02-01 11:14:38</sys_updated_on>
+        <sys_updated_on>2022-02-01 11:27:48</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
