@@ -30,8 +30,8 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-// 	Test BR_demo with Saurabh
-
+	// 	Test BR_demo with Saurabh
+	// 1, Feb. 2022
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>anku_sharma@hcl.com</sys_created_by>
@@ -39,15 +39,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>795ecf811b598110e88f117c0a4bcbde</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Test BR_demo with Saurabh</sys_name>
         <sys_overrides/>
         <sys_package display_value="jenkinstestapp" source="x_hclte_jenkinstes">1048541f1b410110089dc9961a4bcb48</sys_package>
         <sys_policy/>
         <sys_scope display_value="jenkinstestapp">1048541f1b410110089dc9961a4bcb48</sys_scope>
         <sys_update_name>sys_script_795ecf811b598110e88f117c0a4bcbde</sys_update_name>
-        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
-        <sys_updated_on>2022-01-25 16:37:47</sys_updated_on>
+        <sys_updated_by>saurabh.m@hcl.com</sys_updated_by>
+        <sys_updated_on>2022-02-01 10:50:45</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
