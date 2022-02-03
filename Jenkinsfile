@@ -29,10 +29,7 @@ stages {
     
     stage('Install'){
            steps {
-        snDevOpsChange(
-        snDevOpsStep()
-       
-         )
+        snDevOpsChange()
        snInstallApp(credentialsId: "${CREDENTIALS}", url: "${TESTENV}", appSysId: "${APPSYSID}", baseAppAutoUpgrade: false)
         
         
